@@ -8137,7 +8137,7 @@
           ],
           "otherContent": [
             {
-              "@id": "",
+              "@id": "https://raw.githubusercontent.com/kermorvant/iiif-test/refs/heads/main/transcriptions-1fca6a99-2bb2-4319-9197-ce2893adfefb.json",
               "@type": "sc:AnnotationList",
               "label": "Transcriptions"
             }
