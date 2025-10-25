@@ -4,6 +4,18 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/ee6e571d-0b4a-4119-9476-7c4ff99079e7/annotation/ee6e571d-0b4a-4119-9476-7c4ff99079e7/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1033,1370,2149,3363",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/ee6e571d-0b4a-4119-9476-7c4ff99079e7/annotation/ee6e571d-0b4a-4119-9476-7c4ff99079e7/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Deum lavamus te\nDominum confitemur\netenimum patrem omnis\nterra venerabitur\nVenimus aut calicis\net universi potestates\nIn cherubum et semperbum in\ncessabant voce proclamans\nSanctus\nSanctus\nSanctus Dominus Deus Israel\nnost\nVeni sunt celi et terrae mane\nAbis glorie tue",
+        "format": "text/plain"
+      }
+    },
+    {
       "@id": "https://demo.arkindex.org/api/v1/iiif/63c9ecd2-da69-4c05-b45a-bf103e742241/annotation/63c9ecd2-da69-4c05-b45a-bf103e742241/",
       "@type": "oa:Annotation",
       "motivation": "sc:painting",
