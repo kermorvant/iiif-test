@@ -1,0 +1,199 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/list/transcriptions/?format=json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/63c9ecd2-da69-4c05-b45a-bf103e742241/annotation/63c9ecd2-da69-4c05-b45a-bf103e742241/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1536,5219,324,64",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/63c9ecd2-da69-4c05-b45a-bf103e742241/annotation/63c9ecd2-da69-4c05-b45a-bf103e742241/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Deus",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/adc82180-b4f8-4e95-ac24-b005b0524927/annotation/adc82180-b4f8-4e95-ac24-b005b0524927/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1470,1883,1609,166",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/adc82180-b4f8-4e95-ac24-b005b0524927/annotation/adc82180-b4f8-4e95-ac24-b005b0524927/",
+        "@type": "cnt:ContentAsText",
+        "chars": "etenimum patrem omnis",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/68046962-3b6a-4621-8ecb-8d698db44f31/annotation/68046962-3b6a-4621-8ecb-8d698db44f31/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1070,4054,2046,195",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/68046962-3b6a-4621-8ecb-8d698db44f31/annotation/68046962-3b6a-4621-8ecb-8d698db44f31/",
+        "@type": "cnt:ContentAsText",
+        "chars": "nost",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/49d1a55c-3a35-4733-83b7-cf0da192cec1/annotation/49d1a55c-3a35-4733-83b7-cf0da192cec1/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1052,2125,2046,166",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/49d1a55c-3a35-4733-83b7-cf0da192cec1/annotation/49d1a55c-3a35-4733-83b7-cf0da192cec1/",
+        "@type": "cnt:ContentAsText",
+        "chars": "terra venerabitur",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/ee6e571d-0b4a-4119-9476-7c4ff99079e7/annotation/ee6e571d-0b4a-4119-9476-7c4ff99079e7/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1033,1370,2149,3363",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/ee6e571d-0b4a-4119-9476-7c4ff99079e7/annotation/ee6e571d-0b4a-4119-9476-7c4ff99079e7/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Deum lavamus te\nDominum confitemur\netenimum patrem omnis\nterra venerabitur\nVenimus aut calicis\net universi potestates\nIn cherubum et semperbum in\ncessabant voce proclamans\nSanctus\nSanctus\nSanctus Dominus Deus Israel\nnost\nVeni sunt celi et terrae mane\nAbis glorie tue",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/c7c9a24e-f14d-49b6-8220-691b8bf50f28/annotation/c7c9a24e-f14d-49b6-8220-691b8bf50f28/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1033,4539,2102,194",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/c7c9a24e-f14d-49b6-8220-691b8bf50f28/annotation/c7c9a24e-f14d-49b6-8220-691b8bf50f28/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Abis glorie tue",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/716be117-2665-4ca2-b4ae-022829a53f89/annotation/716be117-2665-4ca2-b4ae-022829a53f89/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1052,2600,2064,176",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/716be117-2665-4ca2-b4ae-022829a53f89/annotation/716be117-2665-4ca2-b4ae-022829a53f89/",
+        "@type": "cnt:ContentAsText",
+        "chars": "et universi potestates",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/9de67980-c243-4b77-beaf-1e016964111c/annotation/9de67980-c243-4b77-beaf-1e016964111c/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1061,3355,2046,167",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/9de67980-c243-4b77-beaf-1e016964111c/annotation/9de67980-c243-4b77-beaf-1e016964111c/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Sanctus",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/45f00b14-654e-42b8-ae96-8e25985b4265/annotation/45f00b14-654e-42b8-ae96-8e25985b4265/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1061,2321,2102,231",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/45f00b14-654e-42b8-ae96-8e25985b4265/annotation/45f00b14-654e-42b8-ae96-8e25985b4265/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Venimus aut calicis",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/f30c1a46-fa56-4d26-adc9-389d3bb0e977/annotation/f30c1a46-fa56-4d26-adc9-389d3bb0e977/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1117,4306,1990,176",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/f30c1a46-fa56-4d26-adc9-389d3bb0e977/annotation/f30c1a46-fa56-4d26-adc9-389d3bb0e977/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Veni sunt celi et terrae mane",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/9869cd0c-e22f-4f37-b8ac-f4609633f572/annotation/9869cd0c-e22f-4f37-b8ac-f4609633f572/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1443,2852,1739,176",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/9869cd0c-e22f-4f37-b8ac-f4609633f572/annotation/9869cd0c-e22f-4f37-b8ac-f4609633f572/",
+        "@type": "cnt:ContentAsText",
+        "chars": "In cherubum et semperbum in",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/7a99df3a-ad91-48d8-ba28-89eac09c18d9/annotation/7a99df3a-ad91-48d8-ba28-89eac09c18d9/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1545,1370,1534,176",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/7a99df3a-ad91-48d8-ba28-89eac09c18d9/annotation/7a99df3a-ad91-48d8-ba28-89eac09c18d9/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Deum lavamus te",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/e56d9c9d-a624-4cea-b1ee-6cd7b6501a65/annotation/e56d9c9d-a624-4cea-b1ee-6cd7b6501a65/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1052,3085,2055,194",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/e56d9c9d-a624-4cea-b1ee-6cd7b6501a65/annotation/e56d9c9d-a624-4cea-b1ee-6cd7b6501a65/",
+        "@type": "cnt:ContentAsText",
+        "chars": "cessabant voce proclamans",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/ffcd9640-9c6a-4a25-b906-3eb9da268486/annotation/ffcd9640-9c6a-4a25-b906-3eb9da268486/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1247,3803,1907,203",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/ffcd9640-9c6a-4a25-b906-3eb9da268486/annotation/ffcd9640-9c6a-4a25-b906-3eb9da268486/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Sanctus Dominus Deus Israel",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/5252e9d3-e7f9-4d7c-8147-1c0bd33d2023/annotation/5252e9d3-e7f9-4d7c-8147-1c0bd33d2023/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1415,3597,1673,158",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/5252e9d3-e7f9-4d7c-8147-1c0bd33d2023/annotation/5252e9d3-e7f9-4d7c-8147-1c0bd33d2023/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Sanctus",
+        "format": "text/plain"
+      }
+    },
+    {
+      "@id": "https://demo.arkindex.org/api/v1/iiif/938490dd-72f2-4d60-9592-3528706a363f/annotation/938490dd-72f2-4d60-9592-3528706a363f/",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://demo.arkindex.org/api/v1/iiif/1fca6a99-2bb2-4319-9197-ce2893adfefb/canvas/#xywh=1526,1622,1618,176",
+      "resource": {
+        "@id": "https://demo.arkindex.org/api/v1/iiif/938490dd-72f2-4d60-9592-3528706a363f/annotation/938490dd-72f2-4d60-9592-3528706a363f/",
+        "@type": "cnt:ContentAsText",
+        "chars": "Dominum confitemur",
+        "format": "text/plain"
+      }
+    }
+  ]
+}
